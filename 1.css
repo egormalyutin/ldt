@@ -1,3 +1,8 @@
+/*
+	Usage of this file is forbidden without written permission of its author (https://egorcod.tk/)
+	Использование этого фала запрещено без письменного разрешения его автора (https://egorcod.tk/)
+*/
+
 /* <link rel="stylesheet" type="text/css" href="https://rawgit.com/malyutinegor/ldt/master/1.css"> */
 
 body {
@@ -21,8 +26,7 @@ h1, h3 , .sidebar h3 {
 	border-bottom: 1px solid #000;
 }
 
-/* Buttons */
-input[type="button"], input[type="submit"], input[type="submit"]:hover {
+input[type = "button"], input[type = "submit"], input[type = "submit"]:hover {
 	background: rgba(208, 208, 208, 0.59);
 	color: #000;
 	border: 1px solid #000;
