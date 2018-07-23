@@ -1,12 +1,12 @@
 /* <link rel="stylesheet" type="text/css" href="https://rawgit.com/malyutinegor/ldt/master/1.css"> */
 
 body {
-	background-image: url("https://rawgit.com/malyutinegor/ldt/master/bg.jpg");
-	background-attachment: fixed;
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-image: url("https://rawgit.com/malyutinegor/ldt/master/bg.jpg") !important;
+	background-attachment: fixed !important;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
 }
 
 body > * {
-	opacity: 0.5;
+	opacity: 0.5 !important;
 }
