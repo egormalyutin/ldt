@@ -12,10 +12,6 @@ body {
 	background-repeat: no-repeat;
 }
 
-/*body > * {
-	opacity: 0.5 !important;
-}*/
-
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 	color: #000;
 }
