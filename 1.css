@@ -89,7 +89,7 @@ input[type = "button"], input[type = "submit"], input[type = "submit"]:hover {
 /* Sidebar */
  
 .sidebar {
-	background: rgba(231, 231, 233, 0.5);
+	background: rgba(231, 231, 233, 0.3);
 	border: 0px solid #000;
 	border-bottom: 1px solid #000;
 	border-left: 1px solid #000;
