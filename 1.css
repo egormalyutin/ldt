@@ -7,7 +7,6 @@ body {
 	background-repeat: no-repeat;
 }
 
-body * {
-	color: white;
-	background-color: rgba(0,0,0, 0.1);
+body > * {
+	opacity: 0.5;
 }
