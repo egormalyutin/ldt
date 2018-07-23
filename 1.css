@@ -6,3 +6,8 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+
+body * {
+	color: white;
+	background-color: rgba(0,0,0, 0.1);
+}
