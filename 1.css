@@ -68,7 +68,8 @@ input[type="button"], input[type="submit"], input[type="submit"]:hover {
  
 .navbar {
 	background: rgba(231, 232, 237, 0.68);
-	border-bottom: 1px solid #000;
+	border: 1px solid #000;
+	border-radius: 4px;
 	color: #000;
 }
  
@@ -195,21 +196,4 @@ div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top,
 	background: rgba(255, 255, 255, 0.25);
 	border: 1px solid #000;
 	border-left: none;
-}
-
-
-/* Custom scrollbar - only works on chrome */
-::-webkit-scrollbar {
-	width: 10px;
-}
- 
-::-webkit-scrollbar-track {
-	background-color: #ffffff;
-}
- 
-::-webkit-scrollbar-thumb {
-	background-color:  rgb(220, 220, 220);
-	border-radius: 0px;
-	border: 1px solid #000;
-	border-right: none;
 }
